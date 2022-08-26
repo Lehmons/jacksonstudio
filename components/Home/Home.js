@@ -73,6 +73,21 @@ export default function Home() {
           <Row size={size} delay={1.5} />
           <Row size={size} delay={1.5} />
           <Row size={size} delay={1.5} />
+          <Row size={size} delay={2.5} />
+          <Row size={size} delay={1.5} />
+          <Row size={size} delay={2.5} />
+          <Row size={size} delay={1.5} />
+          <Row size={size} delay={1.5} />
+          <Row size={size} delay={2.5} />
+          <Row size={size} delay={1.5} />
+          <Row size={size} delay={2.5} />
+          <Row size={size} delay={1.5} />
+          <Row size={size} delay={1.5} />
+          <Row size={size} delay={1.5} />
+          <Row size={size} delay={1.5} />
+          <Row size={size} delay={1.5} />
+          <Row size={size} delay={1.5} />
+          <Row size={size} delay={1.5} />
         </>
       )}
       <h1>

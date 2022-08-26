@@ -8,6 +8,8 @@ const GlobalStyles = createGlobalStyle`
 
   html {
     box-sizing: border-box;
+    width: 100vw;
+    overflow-x: hidden;
   }
 
   *, *:before, &:after {
