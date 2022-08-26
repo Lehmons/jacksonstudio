@@ -36,9 +36,10 @@ export default function Home() {
 
     if (y >= pageHeight - viewportH) {
       window.scrollTo(0, 0);
-    } else if (y <= 0 && lastScrollPos.current > 0) {
-      window.scrollTo(0, pageHeight - viewportH - 10);
     }
+    // } else if (y <= 0 && lastScrollPos.current > 0) {
+    //   window.scrollTo(0, pageHeight - viewportH - 10);
+    // }
     lastScrollPos.current = y;
   };
 
